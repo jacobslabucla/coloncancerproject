@@ -1,0 +1,6 @@
+#mpa_vJan21_CHOCOPhlAnSGB_202103
+#/u/home/j/julianne/.conda/envs/biobakery3/bin/metaphlan CC13E_S138_L001_R1_001.fastq.gz,CC13E_S138_L001_R2_001.fastq.gz --bowtie2out CC13E_S138_L001_R1_001.fastq_metagenome.bowtie2.bz2 --nproc 10 --input_type fastq -o CC13E_S138_L001_R1_001.fastq_profiled_metagenome.txt --bowtie2db metaphlan_database --index mpa_vJan21_CHOCOPhlAnSGB_202103
+#146 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	100.0	
