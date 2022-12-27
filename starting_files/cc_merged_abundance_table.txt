@@ -1,0 +1,2 @@
+merge_metaphlan_tables: wrong header format for "CC02A_S119_L001_R1_001.fastq_profiled_metagenome.txt", please check your profiles.
+
